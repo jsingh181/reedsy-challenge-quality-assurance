@@ -20,7 +20,7 @@ Immediately
 
 ### - **What's your rate or current salary expectations?**
 
-In the region of 38000-42000 GBP per annum
+In the region of 38000-45000 GBP per annum
 
 
 ### - **What's your favourite Giphy? :)**
