@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "npm --prefix ./challenges/qa run start",
+    "cy:run": "cypress run",
+    "cy:open": "cypress open",
+    "test:e2e": "start-server-and-test start http://localhost:5173 cy:run"
+  },
+  "devDependencies": {
+    "cypress": "^12.0.0",
+    "start-server-and-test": "^1.14.0"
+  }
+}

@@ -15,7 +15,7 @@ Worked fully remotely at Satchel post-covid, with occasional travel into the Lon
 
 ### - **When would you be available to start?**
 
-Immediately, though 1-week notice would be preferable!
+Immediately
 
 
 ### - **What's your rate or current salary expectations?**
