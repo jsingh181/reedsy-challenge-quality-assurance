@@ -31,4 +31,4 @@ How I feel most days hehe
 
 ### - **Could you complete the following assignment in the coming days and share it with "reedsyapplications" on GitHub?**
 
-Sure, see the link to the repository below, and the organisation `reedsyapplications` has been invited.
+Use directory navigation to find further files related to the assignment, and the organisation `reedsyapplications` has been invited.
