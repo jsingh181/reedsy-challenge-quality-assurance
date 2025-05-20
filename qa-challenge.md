@@ -44,7 +44,7 @@ The title, author and user rating information actually appears below the book
 - *Build/Version:* N/A
 
 ## Severity
-Low
+Medium
 
 ## Additional Information
 Other examples of books with inconsistent title/author layouts include: 'A Wrinkle in Time', 'Eragon (The Inheritance Cycle, #1' etc
@@ -84,7 +84,7 @@ Below is a screenshot of the issue
 - *Build/Version:* N/A
 
 ## Severity
-Medium
+High
 
 ## Additional Information
 Book 35 is missing more than just the cover art - this includes title
@@ -256,21 +256,3 @@ When the user clicks the chevron to navigate to page two, there is also a weird 
 ```
 
 ---
-
-## 3. Automated testing
-
-Please write some automated end-to-end tests for this app.
-
-You **should**:
-
-- [ ]  include simple instructions for running the tests, including installing any tools
-- [ ]  write **failing** tests for the **two highest priority bugs**
-- [ ]  explain why these are the highest priority bugs
-- [ ]  write a **passing** test for a working feature
-- [ ]  explain why this passing test is worthwhile
-- [ ]  write robust, maintainable tests
-- [ ]  should not rely on the test environment having stable data
-
-You **may**:
-
-- [ ]  use any automated testing tools you like
